@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `My Dream Church`,
     author: {
-      name: `Me`,
+      name: `Anil Philip`,
       summary: ` `,
     },
     description: ` `,
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `My Dream Church`,
+        short_name: `DreamChurch`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
